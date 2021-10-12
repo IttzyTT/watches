@@ -1,4 +1,4 @@
-# Paketering, leverans och uppföljning projekt
+
 ## npm start app (to start backend server and dev server)
 
 
